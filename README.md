@@ -8,44 +8,44 @@
 ---
 
 ### Project 1: Simple Q&A Chatbot
-**Description:** Build a command-line chatbot using OpenAI/Claude API that answers general questions.
-**Skills:** API integration, environment variables, basic prompt design
-**Tech:** Python, requests/httpx, dotenv
+* **Description:** Build a command-line chatbot using OpenAI/Claude API that answers general questions.
+* **Skills:** API integration, environment variables, basic prompt design
+* **Tech:** Python, requests/httpx, dotenv
 
 ---
 
 ### Project 2: AI-Powered To-Do List Assistant
-**Description:** Create a CLI tool where users describe tasks in natural language, and AI categorizes and prioritizes them.
-**Skills:** Text parsing, structured output, JSON handling
-**Tech:** Python, LLM API, JSON
+* **Description:** Create a CLI tool where users describe tasks in natural language, and AI categorizes and prioritizes them.
+* **Skills:** Text parsing, structured output, JSON handling
+* **Tech:** Python, LLM API, JSON
 
 ---
 
 ### Project 3: Automated Email Reply Generator
-**Description:** Input an email, and the AI generates professional reply options (formal, casual, decline, accept).
-**Skills:** Prompt templates, tone control, text generation
-**Tech:** Python, LLM API
+* **Description:** Input an email, and the AI generates professional reply options (formal, casual, decline, accept).
+* **Skills:** Prompt templates, tone control, text generation
+* **Tech:** Python, LLM API
 
 ---
 
 ### Project 4: Text Summarizer
-**Description:** Build a tool that summarizes articles, PDFs, or pasted text into bullet points or paragraphs.
-**Skills:** Document processing, chunking long text, summarization prompts
-**Tech:** Python, PyPDF2, LLM API
+* **Description:** Build a tool that summarizes articles, PDFs, or pasted text into bullet points or paragraphs.
+* **Skills:** Document processing, chunking long text, summarization prompts
+* **Tech:** Python, PyPDF2, LLM API
 
 ---
 
 ### Project 5: AI Flashcard Generator
-**Description:** Input a topic or document, and AI generates study flashcards (question/answer pairs).
-**Skills:** Structured output generation, educational content design
-**Tech:** Python, LLM API, CSV/JSON export
+* **Description:** Input a topic or document, and AI generates study flashcards (question/answer pairs).
+* **Skills:** Structured output generation, educational content design
+* **Tech:** Python, LLM API, CSV/JSON export
 
 ---
 
 ### Project 6: Mood-Based Playlist Recommender
-**Description:** User describes their mood, and AI suggests song/playlist recommendations with explanations.
-**Skills:** Creative prompting, user input handling
-**Tech:** Python, LLM API, Spotify API (optional)
+* **Description:** User describes their mood, and AI suggests song/playlist recommendations with explanations.
+* **Skills:** Creative prompting, user input handling
+* **Tech:** Python, LLM API, Spotify API (optional)
 
 ---
 
@@ -57,9 +57,9 @@
 ---
 
 ### Project 8: Daily Motivation Bot
-**Description:** A script that generates personalized daily motivational quotes/messages based on user goals.
-**Skills:** Personalization, scheduled tasks, text generation
-**Tech:** Python, LLM API, schedule library
+* **Description:** A script that generates personalized daily motivational quotes/messages based on user goals.
+* **Skills:** Personalization, scheduled tasks, text generation
+* **Tech:** Python, LLM API, schedule library
 
 ---
 
@@ -245,12 +245,12 @@
 
 ## 🛠️ Recommended Tech Stack
 
-**APIs:** OpenAI, Anthropic Claude, Google Gemini
-**Frameworks:** LangChain, LlamaIndex, CrewAI, AutoGen
-**Vector DBs:** Pinecone, ChromaDB, Weaviate, Qdrant
-**Voice:** Whisper, ElevenLabs, Deepgram, AssemblyAI
-**Web:** Streamlit, Gradio, FastAPI, Flask
-**Deployment:** Docker, AWS/GCP, Vercel
+* **APIs:** OpenAI, Anthropic Claude, Google Gemini
+* **Frameworks:** LangChain, LlamaIndex, CrewAI, AutoGen
+* **Vector DBs:** Pinecone, ChromaDB, Weaviate, Qdrant
+* **Voice:** Whisper, ElevenLabs, Deepgram, AssemblyAI
+* **Web:** Streamlit, Gradio, FastAPI, Flask
+* **Deployment:** Docker, AWS/GCP, Vercel
 
 ---
 
